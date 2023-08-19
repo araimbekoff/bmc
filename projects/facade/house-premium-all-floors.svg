@@ -1,0 +1,35 @@
+<svg width="1512" height="989" xmlns="http://www.w3.org/2000/svg" fill="none">
+    <defs>
+        <linearGradient y2="0.60651" x2="0.49098" y1="0.15089" x1="0.49077" id="paint0_linear_324_134">
+            <stop/>
+            <stop offset="1"/>
+        </linearGradient>
+        <linearGradient y2="0.60651" x2="0.49092" y1="0.15089" x1="0.49077" id="paint0_linear_324_135">
+            <stop/>
+            <stop offset="1"/>
+        </linearGradient>
+        <linearGradient y2="0.60651" x2="0.49109" y1="0.15089" x1="0.49077" id="paint0_linear_324_136">
+            <stop/>
+            <stop offset="1"/>
+        </linearGradient>
+        <linearGradient y2="0.60651" x2="0.49105" y1="0.15089" x1="0.49077" id="paint0_linear_324_137">
+            <stop/>
+            <stop offset="1"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <!--        <title>Layer 1</title>-->
+        <path id="1" fill="url(#paint0_linear_324_134)"
+              d="m171,560.5l0,72.5l0,22l104,12l60.5,-3.5l700.5,43.5l9.5,15l383,22l0,-209l-383,7.5l0,8l-216.5,4l-52,-1.5l-180.5,2.5l-2,2.5l-146,2.5l-173.5,-3.5l-104,3.5z"
+              opacity="0.1"/>
+        <path id="2" fill="url(#paint0_linear_324_135)"
+              d="m216,487.5l0,69.5l56.5,-1l52.5,1l120.5,2.5l146.5,-2.5l2,-2.5l449,-5l0,-9l381.5,-6l17,0l0,-146l-353,23.5l0,17.5l-259,16.5l-58,-8.5l-177.5,14.5l0,12.5l-148.5,9.5l-120.5,-7.5l-109,9l0,12z"
+              opacity="0.1"/>
+        <path id="3" fill="url(#paint0_linear_324_136)"
+              d="m215,398.5l0,75l108,-9.5l123.5,8l147,-10l0,-12l178.5,-14.5l53,8l262.5,-15l0,-18l354,-22.5l0,-170.5l-354,51l0,20l-262.5,39l-53,-15l-176,27l0,10l-140.5,18.5l-132.5,-17l-108,19l0,28.5z"
+              opacity="0.1"/>
+        <path id="4" fill="url(#paint0_linear_324_137)"
+              d="m214,362.5l0,5.5l108,-19.5l132.5,17.5l140,-19l0,-9.5l177,-27.5l51.5,15.5l264,-39l0,-20.5l354.5,-51l0,-63l-5.5,-9l-15.5,3l-20,-16.5l-106.5,21.5l-133,3l-83.5,17l-8,-3l-214,43l-82.5,-2.5l-184,38.5l0,5.5l5.5,0l0,13.5l-95,18l-86.5,40l1.5,24.5l-89.5,-17l-87,15.5l0,11.5l-24,4z"
+              opacity="0.1"/>
+    </g>
+</svg>
